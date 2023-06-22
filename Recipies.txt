@@ -6,5 +6,8 @@ Burger
 
 Pizza 
 
+chicken nuggets
+fish fry
+
 
 Thankyou
